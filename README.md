@@ -1,8 +1,8 @@
 # Machine Learning Foundations A Case Study Approach
 
 #### Course Professor: 
-##### [Carlos Guestrin](https://www.coursera.org/instructor/guestrin)(Amazon Professor of Machine Learning)
-##### [Emily Fox](https://www.coursera.org/instructor/~14032411)(Amazon Professor of Machine Learning)
+##### [Carlos Guestrin](https://www.coursera.org/instructor/guestrin) (Amazon Professor of Machine Learning)
+##### [Emily Fox](https://www.coursera.org/instructor/~14032411) (Amazon Professor of Machine Learning)
 
 This [course](https://www.coursera.org/learn/ml-foundations) provided a series of practical case-studies for me to learn and get hands-on experience with machine learning. At the end of the course I had studied how to predict house prices based on house-level features, analyze sentiment from user reviews, retrieve documents of interest, recommend products, and search for images. Through hands-on practice with these use cases, I am able to apply machine learning methods in a wide range of domains.
 
