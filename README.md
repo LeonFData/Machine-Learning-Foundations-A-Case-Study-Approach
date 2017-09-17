@@ -10,12 +10,10 @@ This [course](https://www.coursera.org/learn/ml-foundations) provided a series o
 
 ## Machine Learning Foundations A Case Study Approach (View [Certificate](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Certificate.pdf))
 
-###  Case1: Predicting house prices
-  - Assignment: [Predicting house prices - Regression](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Predicting%20house%20prices%20-%20Regression/Predicting%2BHouse%2BPrices.ipynb)
+###  Case1: [Predicting house prices - Regression](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Predicting%20house%20prices%20-%20Regression/Predicting%2BHouse%2BPrices.ipynb)
   - Course Material: [Regression Introduction](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Predicting%20house%20prices%20-%20Regression/regression-intro-annotated.pdf)
   
-###  Case2: Analyzing the sentiment of product reviews
-  - Assignment: [Analyzing the sentiment of product reviews - Logistic Classifier](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Analyzing%20Product%20Sentiment%20-logistic%20classifier/Analyzing%20Product%20Sentiment.ipynb)
+###  Case2: [Analyzing the sentiment of product reviews - Logistic Classifier](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Analyzing%20Product%20Sentiment%20-logistic%20classifier/Analyzing%20Product%20Sentiment.ipynb)
   - Course Material: [Classification Introduction](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Analyzing%20Product%20Sentiment%20-logistic%20classifier/classification-annotated.pdf)
 
 ###  Case3: [Retrieving Wikipedia articles - KNN](https://github.com/LeonFData/Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/Retrieving%20Wikipedia%20articles%20-%20KNN/Document%20Retrieval.ipynb)
